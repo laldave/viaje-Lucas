@@ -62,3 +62,5 @@ El protocolo IMAP sincroniza los correos directamente en el servidor, permitiend
 * **Hotel Le Mans (Eklo Hôtels, 5 noches a 37 €):** 185 €
 * **Comidas, bebida y extras:** 280 €
 * **Total:** 1.057 €
+
+* <iframe src="https://calendar.google.com/calendar/embed?src=laldave%40elpuig.xeill.net&ctz=Europe%2FMadrid&dates=20280709%2F20280716&mode=WEEK" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
